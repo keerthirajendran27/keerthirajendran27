@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keerthi Rajendran</h1>
 <h3 align="center">A passionate Data Analyst currently residing in Ireland</h3>
-<img align="right" alt="Coding" width="400" src="https://99social.co.uk/wp-content/uploads/2020/07/Time-management-1.gif?is-pending-load=1">
+<img align="right" alt="Coding" width="900" src="https://99social.co.uk/wp-content/uploads/2020/07/Time-management-1.gif?is-pending-load=1">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthirajendran27&label=Profile%20views&color=0e75b6&style=flat" alt="keerthirajendran27" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keerthirajendran27" alt="keerthirajendran27" /></a> </p>
